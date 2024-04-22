@@ -36,3 +36,9 @@ body{
   height: 280px;
   object-fit: cover
 }
+
+.carousel-item img{
+  display: block;
+  object-fit: cover;
+
+}
